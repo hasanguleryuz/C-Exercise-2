@@ -1,0 +1,3 @@
+/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/CMakeFiles/CENG313_HW2_240201029.dir
+/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/CMakeFiles/edit_cache.dir

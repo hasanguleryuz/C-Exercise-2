@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CENG313_HW2_240201029"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CENG313_HW2_240201029">
+				<Option output="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/CENG313_HW2_240201029" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 CENG313_HW2_240201029"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CENG313_HW2_240201029/fast">
+				<Option output="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/CENG313_HW2_240201029" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/9.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 CENG313_HW2_240201029/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/BinarySearchTree.c">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/BinarySearchTree.h">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/BstStackApp.c">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/BstStackApp.h">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/Stack.c">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/Stack.h">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/main.c">
+			<Option target="CENG313_HW2_240201029"/>
+		</Unit>
+		<Unit filename="/home/hasan/Downloads/Courses/Ceng313/CENG313-HW2-240201029/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

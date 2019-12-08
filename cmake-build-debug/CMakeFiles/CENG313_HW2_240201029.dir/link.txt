@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CENG313_HW2_240201029.dir/main.c.o CMakeFiles/CENG313_HW2_240201029.dir/BinarySearchTree.c.o CMakeFiles/CENG313_HW2_240201029.dir/Stack.c.o CMakeFiles/CENG313_HW2_240201029.dir/BstStackApp.c.o  -o CENG313_HW2_240201029 
